@@ -27,7 +27,7 @@ pip install .
 
 
 - step2: `estimate`
-  - `estimate` is used to perform statistical estimation through expectation maximization (EM) and Bayesian inference.
+  - `estimate` is used to perform statistical estimation.
   - set `--gtf` to the gtf file. 
   - set `-o` to the output file.
   - set the output dir from `dedup` step
